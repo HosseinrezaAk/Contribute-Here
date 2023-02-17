@@ -125,6 +125,10 @@ hr{
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
     margin-bottom: 10px;
+    text-align: center;
+}
+.name{
+    text-align: center;
 }
 /* https://css3buttongenerator.com/ */
 .btn {
