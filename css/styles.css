@@ -37,7 +37,7 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color: #EAF6F6;
+    
 }
 
 hr{
@@ -115,7 +115,17 @@ hr{
     font-size: 0.75rem;
     padding: 20px 0;
 }
-
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.top-link{
+    margin-left: 0px;
+}
+.contact{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin-bottom: 10px;
+}
 /* https://css3buttongenerator.com/ */
 .btn {
     background: #11cdd4;
