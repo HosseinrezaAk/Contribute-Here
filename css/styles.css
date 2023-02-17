@@ -36,9 +36,6 @@ a{
     margin: 10px 20px;
     text-decoration: none;
 }
-a:hover{
-    
-}
 
 hr{
     border: dotted #5fc1c1 6px;
@@ -120,6 +117,9 @@ hr{
 }
 .top-link{
     margin-left: 0px;
+}
+.top-link:hover{
+    color: #0aa0a0;
 }
 .contact{
     font-family: 'Montserrat', sans-serif;
