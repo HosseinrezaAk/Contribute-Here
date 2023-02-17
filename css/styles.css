@@ -26,6 +26,10 @@ h3{
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
+h4{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
 a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
@@ -67,6 +71,9 @@ hr{
     position: absolute;
     left: 400px;
     bottom: 300px;
+    
+}
+.profile{
     
 }
 .profile-image{
