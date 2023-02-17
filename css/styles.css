@@ -157,3 +157,20 @@ hr{
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+
+  @media (max-width: 600px) {
+    .intro{
+        width: 50%;
+    }
+    .top-cloud{
+        position: absolute;
+        right: 300px;
+        top: 50px;
+    }
+    
+    .bottom-cloud{
+        visibility: hidden;
+        
+    }
+  }
