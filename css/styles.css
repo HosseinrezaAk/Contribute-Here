@@ -49,11 +49,13 @@ hr{
     
 }
 .middle-container{
-    margin: 100px 0;
+    margin-top: 100px;
+    
 }
 .bottom-container{
     background-color: #66BFBF;
     padding: 50px 0 20px;
+    
 }
 
 .top-cloud{
@@ -154,4 +156,21 @@ hr{
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
+  }
+
+
+  @media (max-width: 600px) {
+    .intro{
+        width: 50%;
+    }
+    .top-cloud{
+        position: absolute;
+        right: 300px;
+        top: 50px;
+    }
+    
+    .bottom-cloud{
+        visibility: hidden;
+        
+    }
   }
