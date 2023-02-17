@@ -1,7 +1,4 @@
-/* 
-    Selector { property: value;} 
-    https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
-*/
+
 body{
     margin: 0;
     text-align: center;
@@ -91,10 +88,7 @@ hr{
     float: right;
     margin-left: 30px;
 }
-/* .code-skill-p{
-    clear:left;   it will clear the float css == anti-float
-}
-*/
+
 
 .intro{
     width: 30%;
@@ -119,7 +113,7 @@ hr{
     margin-left: 0px;
 }
 .top-link:hover{
-    color: #0aa0a0;
+    color: #1a5c5c;
 }
 .contact{
     font-family: 'Montserrat', sans-serif;
@@ -130,7 +124,7 @@ hr{
 .name{
     text-align: center;
 }
-/* https://css3buttongenerator.com/ */
+
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
