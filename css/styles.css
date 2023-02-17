@@ -41,7 +41,7 @@ a:hover{
 }
 
 hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted #5fc1c1 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
@@ -51,6 +51,7 @@ hr{
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+    padding-bottom: 25px;
     
 }
 .middle-container{
@@ -70,10 +71,7 @@ hr{
 .bottom-cloud{
     position: absolute;
     left: 400px;
-    bottom: 300px;
-    
-}
-.profile{
+    bottom: 150px;
     
 }
 .profile-image{
