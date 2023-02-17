@@ -38,7 +38,7 @@ hr{
     border: dotted #5fc1c1 6px;
     border-bottom: none;
     width: 4%;
-    margin: 100px auto;
+    margin: 80px auto;
 }
 
 .top-container{
@@ -124,7 +124,11 @@ hr{
 .name{
     text-align: center;
 }
-
+.info-header{
+    margin-top: 20px;
+    color: #57acac;
+    font-weight: 500;
+}
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
