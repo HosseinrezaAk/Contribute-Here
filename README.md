@@ -52,7 +52,7 @@ Copy the template Card as you see in the `index.html` and paste it where I marke
 <hr>
 
 
-### <p align="center">Step 7: Commit your changes </p>
+### <p align="center">Step 5: Commit your changes </p>
 Once you have made your changes, commit them to the new branch you just created using the `git commit -m <message>` command. Be sure to provide a meaningful commit message to describe your changes.
 
 <br>
@@ -60,7 +60,7 @@ Once you have made your changes, commit them to the new branch you just created 
 <hr>
 
 
-### <p align="center">Step 8: Push your changes</p>
+### <p align="center">Step 6: Push your changes</p>
 After committing your changes, push the changes to your forked repository using the command `git push origin <new branch name>`. 
 
 
@@ -68,7 +68,7 @@ After committing your changes, push the changes to your forked repository using 
 
 <hr>
 
-### <p align="center">Step 9: Create a pull request </p>
+### <p align="center">Step 7: Create a pull request </p>
 n your GitHub repository, click on the "Pull requests" tab and then click the green "New pull request" button. This will take you to a page where you can review your changes and create a pull request to the original repository.
 
 <br>
