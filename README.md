@@ -69,7 +69,7 @@ After committing your changes, push the changes to your forked repository using 
 <hr>
 
 ### <p align="center">Step 7: Create a pull request </p>
-n your GitHub repository, click on the "Pull requests" tab and then click the green "New pull request" button. This will take you to a page where you can review your changes and create a pull request to the original repository.
+In your GitHub repository, click on the "Pull requests" tab and then click the green "New pull request" button. This will take you to a page where you can review your changes and create a pull request to the original repository.
 
 <br>
 
